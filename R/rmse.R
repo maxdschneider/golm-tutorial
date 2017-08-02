@@ -4,13 +4,13 @@
 # root mean square error
 # based on wikipedia formula
 
-#' Title
+#' Root Mean Square Error
 #'
 #' @param a observed
 #' @param b predicted
 #' @param quiet logical variable indicating whether warning messages are printed
 #'
-#' @return
+#' @return Single numerical value with NSE value
 #' @export
 #'
 #' @examples

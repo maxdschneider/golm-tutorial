@@ -2,7 +2,7 @@
 % Please edit documentation in R/rmse.R
 \name{rmse}
 \alias{rmse}
-\title{Title}
+\title{Root Mean Square Error}
 \usage{
 rmse(a, b, quiet = FALSE)
 }
@@ -13,6 +13,9 @@ rmse(a, b, quiet = FALSE)
 
 \item{quiet}{logical variable indicating whether warning messages are printed}
 }
+\value{
+Single numerical value with NSE value
+}
 \description{
-Title
+Root Mean Square Error
 }
